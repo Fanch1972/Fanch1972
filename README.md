@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me : email me at moifanch33@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
 
 <!---
 Fanch1972/Fanch1972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
